@@ -1,0 +1,265 @@
+04/07/20 06:49:48 PM Saturday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/ContactUs
+04/07/20 06:49:48 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/ContactUs
+04/07/20 06:49:49 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Contact Us form
+04/07/20 06:49:49 PM Saturday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Contact Us formis displayed 
+04/07/20 06:49:49 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Name
+04/07/20 06:49:50 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Name
+04/07/20 06:49:50 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Email
+04/07/20 06:49:51 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Email
+04/07/20 06:49:52 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Address
+04/07/20 06:49:52 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Address
+04/07/20 06:49:53 PM Saturday - BasePage - INFO : Element found with LocatorType: index with the locatorValue :4
+04/07/20 06:49:54 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: index and with the locatorValue :4
+04/07/20 06:49:54 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :SUBMIT
+04/07/20 06:49:55 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: text and with the locatorValue :SUBMIT
+04/07/20 06:57:33 PM Saturday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/ContactUs
+04/07/20 06:57:34 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/ContactUs
+04/07/20 06:57:35 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Contact Us form
+04/07/20 06:57:35 PM Saturday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Contact Us formis displayed 
+04/07/20 06:57:35 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Name
+04/07/20 06:57:36 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Name
+04/07/20 06:57:36 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Email
+04/07/20 06:57:37 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Email
+04/07/20 06:57:38 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Address
+04/07/20 06:57:38 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Address
+04/07/20 06:57:39 PM Saturday - BasePage - INFO : Element found with LocatorType: index with the locatorValue :4
+04/07/20 06:57:40 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: index and with the locatorValue :4
+04/07/20 06:57:40 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :SUBMIT
+04/07/20 06:57:41 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: text and with the locatorValue :SUBMIT
+04/07/20 09:34:56 PM Saturday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/ContactUs
+04/07/20 09:34:56 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/ContactUs
+04/07/20 09:34:57 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Contact Us form
+04/07/20 09:34:57 PM Saturday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Contact Us formis displayed 
+04/07/20 09:34:57 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Name
+04/07/20 09:34:58 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Name
+04/07/20 09:34:59 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Email
+04/07/20 09:34:59 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Email
+04/07/20 09:35:00 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Address
+04/07/20 09:35:00 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Address
+04/07/20 09:35:00 PM Saturday - BasePage - INFO : Element not found with LocatorType: index and with the locatorValue :asss
+04/07/20 09:35:00 PM Saturday - BasePage - INFO : Unable to send text on Element with LocatorType: index and with the locatorValue :asss
+04/07/20 10:05:23 PM Saturday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/ContactUs
+04/07/20 10:05:23 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/ContactUs
+04/07/20 10:05:24 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Contact Us form
+04/07/20 10:05:24 PM Saturday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Contact Us formis displayed 
+04/07/20 10:05:24 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Name
+04/07/20 10:05:25 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Name
+04/07/20 10:05:26 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Email
+04/07/20 10:05:27 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Email
+04/07/20 10:05:27 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Address
+04/07/20 10:05:28 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Address
+04/07/20 10:05:28 PM Saturday - BasePage - INFO : Element not found with LocatorType: index and with the locatorValue :aaaa
+04/07/20 10:05:28 PM Saturday - BasePage - INFO : Unable to send text on Element with LocatorType: index and with the locatorValue :aaaa
+04/07/20 10:06:27 PM Saturday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/ContactUs
+04/07/20 10:06:27 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/ContactUs
+04/07/20 10:06:28 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Contact Us form
+04/07/20 10:06:28 PM Saturday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Contact Us formis displayed 
+04/07/20 10:06:28 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Name
+04/07/20 10:06:29 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Name
+04/07/20 10:06:30 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Email
+04/07/20 10:06:30 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Email
+04/07/20 10:06:31 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Address
+04/07/20 10:06:32 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Address
+04/07/20 10:06:32 PM Saturday - BasePage - INFO : Element found with LocatorType: index with the locatorValue :4
+04/07/20 10:06:33 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: index and with the locatorValue :4
+04/07/20 10:06:33 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :SUBMIT
+04/07/20 10:06:34 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: text and with the locatorValue :SUBMIT
+04/07/20 10:34:29 PM Saturday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Login
+04/07/20 10:34:29 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Login
+04/07/20 10:34:29 PM Saturday - BasePage - INFO : Element found with LocatorType: index with the locatorValue :3
+04/07/20 10:34:31 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: index and with the locatorValue :3
+04/07/20 10:34:31 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Password
+04/07/20 10:34:32 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Password
+04/07/20 10:34:33 PM Saturday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Btn3
+04/07/20 10:34:33 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Btn3
+04/07/20 10:34:59 PM Saturday - BasePage - INFO : Element not found with LocatorType: text and with the locatorValue :Enter Admin
+04/07/20 10:34:59 PM Saturday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Enter Admin is not displayed
+04/07/20 10:35:00 PM Saturday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Login
+04/07/20 10:35:00 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Login
+04/07/20 10:35:00 PM Saturday - BasePage - INFO : Element found with LocatorType: index with the locatorValue :3
+04/07/20 10:35:02 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: index and with the locatorValue :3
+04/07/20 10:35:02 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Password
+04/07/20 10:35:03 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Password
+04/07/20 10:35:04 PM Saturday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Btn3
+04/07/20 10:35:04 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Btn3
+04/07/20 10:35:05 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Admin
+04/07/20 10:35:05 PM Saturday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Enter Adminis displayed 
+04/07/20 10:35:05 PM Saturday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Edt_admin
+04/07/20 10:35:06 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Edt_admin
+04/07/20 10:35:06 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :SUBMIT
+04/07/20 10:35:07 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: text and with the locatorValue :SUBMIT
+04/07/20 10:36:58 PM Saturday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Login
+04/07/20 10:36:58 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Login
+04/07/20 10:36:58 PM Saturday - BasePage - INFO : Element found with LocatorType: index with the locatorValue :3
+04/07/20 10:37:00 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: index and with the locatorValue :3
+04/07/20 10:37:01 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Password
+04/07/20 10:37:01 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Password
+04/07/20 10:37:02 PM Saturday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Btn3
+04/07/20 10:37:02 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Btn3
+04/07/20 10:37:27 PM Saturday - BasePage - INFO : Element not found with LocatorType: text and with the locatorValue :Enter Admin
+04/07/20 10:37:27 PM Saturday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Enter Admin is not displayed
+04/07/20 10:37:28 PM Saturday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Login
+04/07/20 10:37:28 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Login
+04/07/20 10:37:28 PM Saturday - BasePage - INFO : Element found with LocatorType: index with the locatorValue :3
+04/07/20 10:37:30 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: index and with the locatorValue :3
+04/07/20 10:37:31 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Password
+04/07/20 10:37:31 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Password
+04/07/20 10:37:32 PM Saturday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Btn3
+04/07/20 10:37:32 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Btn3
+04/07/20 10:37:33 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Admin
+04/07/20 10:37:33 PM Saturday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Enter Adminis displayed 
+04/07/20 10:37:34 PM Saturday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Edt_admin
+04/07/20 10:37:35 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Edt_admin
+04/07/20 10:37:36 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :SUBMIT
+04/07/20 10:37:36 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: text and with the locatorValue :SUBMIT
+04/07/20 10:50:43 PM Saturday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/ContactUs
+04/07/20 10:50:43 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/ContactUs
+04/07/20 10:50:44 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Contact Us form
+04/07/20 10:50:44 PM Saturday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Contact Us formis displayed 
+04/07/20 10:50:44 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Name
+04/07/20 10:50:45 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Name
+04/07/20 10:50:46 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Email
+04/07/20 10:50:47 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Email
+04/07/20 10:50:47 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Address
+04/07/20 10:50:48 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Address
+04/07/20 10:50:48 PM Saturday - BasePage - INFO : Element found with LocatorType: index with the locatorValue :4
+04/07/20 10:50:49 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: index and with the locatorValue :4
+04/07/20 10:50:50 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :SUBMIT
+04/07/20 10:50:51 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: text and with the locatorValue :SUBMIT
+04/07/20 10:50:51 PM Saturday - BasePage - INFO : Screenshot save to Path : ../screenshots/enterdata_04_07_20_22_50_51.png
+04/07/20 10:51:07 PM Saturday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Login
+04/07/20 10:51:07 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Login
+04/07/20 10:51:07 PM Saturday - BasePage - INFO : Element found with LocatorType: index with the locatorValue :3
+04/07/20 10:51:09 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: index and with the locatorValue :3
+04/07/20 10:51:10 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Password
+04/07/20 10:51:11 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Password
+04/07/20 10:51:11 PM Saturday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Btn3
+04/07/20 10:51:11 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Btn3
+04/07/20 10:51:36 PM Saturday - BasePage - INFO : Element not found with LocatorType: text and with the locatorValue :Enter Admin
+04/07/20 10:51:36 PM Saturday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Enter Admin is not displayed
+04/07/20 10:51:38 PM Saturday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Login
+04/07/20 10:51:38 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Login
+04/07/20 10:51:38 PM Saturday - BasePage - INFO : Element found with LocatorType: index with the locatorValue :3
+04/07/20 10:51:40 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: index and with the locatorValue :3
+04/07/20 10:51:41 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Password
+04/07/20 10:51:41 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Password
+04/07/20 10:51:42 PM Saturday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Btn3
+04/07/20 10:51:42 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Btn3
+04/07/20 10:51:43 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Admin
+04/07/20 10:51:43 PM Saturday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Enter Adminis displayed 
+04/07/20 10:51:43 PM Saturday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Edt_admin
+04/07/20 10:51:44 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Edt_admin
+04/07/20 10:51:44 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :SUBMIT
+04/07/20 10:51:45 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: text and with the locatorValue :SUBMIT
+04/07/20 10:58:01 PM Saturday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/ContactUs
+04/07/20 10:58:01 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/ContactUs
+04/07/20 10:58:03 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Contact Us form
+04/07/20 10:58:03 PM Saturday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Contact Us formis displayed 
+04/07/20 10:58:03 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Name
+04/07/20 10:58:04 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Name
+04/07/20 10:58:04 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Email
+04/07/20 10:58:05 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Email
+04/07/20 10:58:06 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Address
+04/07/20 10:58:06 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Address
+04/07/20 10:58:07 PM Saturday - BasePage - INFO : Element found with LocatorType: index with the locatorValue :4
+04/07/20 10:58:07 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: index and with the locatorValue :4
+04/07/20 10:58:08 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :SUBMIT
+04/07/20 10:58:09 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: text and with the locatorValue :SUBMIT
+04/07/20 10:58:09 PM Saturday - BasePage - INFO : Screenshot save to Path : ../screenshots/enterdata_04_07_20_22_58_09.png
+04/07/20 10:58:26 PM Saturday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Login
+04/07/20 10:58:26 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Login
+04/07/20 10:58:26 PM Saturday - BasePage - INFO : Element found with LocatorType: index with the locatorValue :3
+04/07/20 10:58:28 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: index and with the locatorValue :3
+04/07/20 10:58:29 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Password
+04/07/20 10:58:29 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Password
+04/07/20 10:58:30 PM Saturday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Btn3
+04/07/20 10:58:30 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Btn3
+04/07/20 10:58:55 PM Saturday - BasePage - INFO : Element not found with LocatorType: text and with the locatorValue :Enter Admin
+04/07/20 10:58:55 PM Saturday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Enter Admin is not displayed
+04/07/20 10:58:57 PM Saturday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Login
+04/07/20 10:58:57 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Login
+04/07/20 10:58:57 PM Saturday - BasePage - INFO : Element found with LocatorType: index with the locatorValue :3
+04/07/20 10:58:59 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: index and with the locatorValue :3
+04/07/20 10:59:00 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Password
+04/07/20 10:59:01 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Password
+04/07/20 10:59:01 PM Saturday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Btn3
+04/07/20 10:59:01 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Btn3
+04/07/20 10:59:03 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Admin
+04/07/20 10:59:03 PM Saturday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Enter Adminis displayed 
+04/07/20 10:59:03 PM Saturday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Edt_admin
+04/07/20 10:59:03 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Edt_admin
+04/07/20 10:59:04 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :SUBMIT
+04/07/20 10:59:05 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: text and with the locatorValue :SUBMIT
+04/07/20 11:04:23 PM Saturday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/ContactUs
+04/07/20 11:04:23 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/ContactUs
+04/07/20 11:04:24 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Contact Us form
+04/07/20 11:04:24 PM Saturday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Contact Us formis displayed 
+04/07/20 11:04:24 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Name
+04/07/20 11:04:25 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Name
+04/07/20 11:04:26 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Email
+04/07/20 11:04:27 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Email
+04/07/20 11:04:53 PM Saturday - BasePage - INFO : Element not found with LocatorType: text and with the locatorValue :Enter Address
+04/07/20 11:04:53 PM Saturday - BasePage - INFO : Unable to send text on Element with LocatorType: text and with the locatorValue :Enter Address
+04/07/20 11:05:09 PM Saturday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Login
+04/07/20 11:05:09 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Login
+04/07/20 11:05:09 PM Saturday - BasePage - INFO : Element found with LocatorType: index with the locatorValue :3
+04/07/20 11:05:11 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: index and with the locatorValue :3
+04/07/20 11:05:12 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Password
+04/07/20 11:05:12 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Password
+04/07/20 11:05:13 PM Saturday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Btn3
+04/07/20 11:05:13 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Btn3
+04/07/20 11:05:39 PM Saturday - BasePage - INFO : Element not found with LocatorType: text and with the locatorValue :Enter Admin
+04/07/20 11:05:39 PM Saturday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Enter Admin is not displayed
+04/07/20 11:05:40 PM Saturday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Login
+04/07/20 11:05:40 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Login
+04/07/20 11:05:40 PM Saturday - BasePage - INFO : Element found with LocatorType: index with the locatorValue :3
+04/07/20 11:05:42 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: index and with the locatorValue :3
+04/07/20 11:05:43 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Password
+04/07/20 11:05:43 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Password
+04/07/20 11:05:44 PM Saturday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Btn3
+04/07/20 11:05:44 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Btn3
+04/07/20 11:05:45 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Admin
+04/07/20 11:05:45 PM Saturday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Enter Adminis displayed 
+04/07/20 11:05:46 PM Saturday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Edt_admin
+04/07/20 11:05:46 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Edt_admin
+04/07/20 11:05:47 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :SUBMIT
+04/07/20 11:05:48 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: text and with the locatorValue :SUBMIT
+04/07/20 11:06:24 PM Saturday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/ContactUs
+04/07/20 11:06:24 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/ContactUs
+04/07/20 11:06:26 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Contact Us form
+04/07/20 11:06:26 PM Saturday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Contact Us formis displayed 
+04/07/20 11:06:26 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Name
+04/07/20 11:06:27 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Name
+04/07/20 11:06:27 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Email
+04/07/20 11:06:28 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Email
+04/07/20 11:06:29 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Address
+04/07/20 11:06:29 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Address
+04/07/20 11:06:30 PM Saturday - BasePage - INFO : Element found with LocatorType: index with the locatorValue :4
+04/07/20 11:06:30 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: index and with the locatorValue :4
+04/07/20 11:06:31 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :SUBMIT
+04/07/20 11:06:32 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: text and with the locatorValue :SUBMIT
+04/07/20 11:06:32 PM Saturday - BasePage - INFO : Screenshot save to Path : ../screenshots/enterdata_04_07_20_23_06_32.png
+04/07/20 11:06:49 PM Saturday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Login
+04/07/20 11:06:49 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Login
+04/07/20 11:06:49 PM Saturday - BasePage - INFO : Element found with LocatorType: index with the locatorValue :3
+04/07/20 11:06:51 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: index and with the locatorValue :3
+04/07/20 11:06:51 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Password
+04/07/20 11:06:52 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Password
+04/07/20 11:06:53 PM Saturday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Btn3
+04/07/20 11:06:53 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Btn3
+04/07/20 11:07:18 PM Saturday - BasePage - INFO : Element not found with LocatorType: text and with the locatorValue :Enter Admin
+04/07/20 11:07:18 PM Saturday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Enter Admin is not displayed
+04/07/20 11:07:20 PM Saturday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Login
+04/07/20 11:07:20 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Login
+04/07/20 11:07:20 PM Saturday - BasePage - INFO : Element found with LocatorType: index with the locatorValue :3
+04/07/20 11:07:22 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: index and with the locatorValue :3
+04/07/20 11:07:23 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Password
+04/07/20 11:07:23 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: text and with the locatorValue :Enter Password
+04/07/20 11:07:24 PM Saturday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Btn3
+04/07/20 11:07:24 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Btn3
+04/07/20 11:07:25 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :Enter Admin
+04/07/20 11:07:25 PM Saturday - BasePage - INFO :  Element with LocatorType: text and with the locatorValue :Enter Adminis displayed 
+04/07/20 11:07:25 PM Saturday - BasePage - INFO : Element found with LocatorType: id with the locatorValue :com.code2lead.kwad:id/Edt_admin
+04/07/20 11:07:26 PM Saturday - BasePage - INFO : Send text  on Element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Edt_admin
+04/07/20 11:07:27 PM Saturday - BasePage - INFO : Element found with LocatorType: text with the locatorValue :SUBMIT
+04/07/20 11:07:27 PM Saturday - BasePage - INFO : Clicked on Element with LocatorType: text and with the locatorValue :SUBMIT
